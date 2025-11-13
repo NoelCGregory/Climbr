@@ -1,4 +1,4 @@
-# Internship Finder Web Application – Requirements Document
+# Refferral Finder Web Application – Requirements Document
 
 ## 1. Introduction
 
